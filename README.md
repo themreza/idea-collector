@@ -24,16 +24,12 @@ machine learning to summarize and classify them.
 - Twitter
   - Search queries:
     - [ ] `"make an app that"`
-    - [ ] `"making an app"`
     - [ ] `"is there an app"`
+    - [ ] `"I want an app"`
   - Hashtags:
-    - [ ] `#AppIdea`
-
-
+    - [ ] `#appidea`
 - Product Hunt
   - [ ] Post descriptions and keywords
-
-
 - Reddit
   - Search queries:
     - [ ] `"make an app that"`
