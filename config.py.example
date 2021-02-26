@@ -5,8 +5,8 @@ Example:
 
 config = {
   "twitter": {
-    app_key: "xxxxxx",
-    app_secret: "xxxxxx"
+    "app_key": "xxxxxx",
+    "app_secret": "xxxxxx"
   }
 }
 """
