@@ -130,3 +130,6 @@ dmypy.json
 
 # IDEA
 .idea
+
+# Sensitive files
+config.py
