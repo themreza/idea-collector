@@ -19,7 +19,7 @@ machine learning to summarize and classify them.
 - [ ] GraphQL API
 - [ ] Web app
 
-## Built-in Sources
+## Built-in sources
 
 - Twitter
   - Search queries:
